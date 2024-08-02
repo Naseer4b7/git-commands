@@ -31,3 +31,11 @@
 
 ==> git checkout -b branchname
                             ==> it will create and checkout the branch same time
+
+
+
+==================== merge branch commands ===============================
+
+==> git checkout to main
+
+==> git merge day-2
