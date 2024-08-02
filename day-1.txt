@@ -57,4 +57,4 @@ some random text
                ==> it will gives all the stashes
 
 ==> git stash apply
-               ==> it will added the hide content               
+               ==> it will added the hide content                
