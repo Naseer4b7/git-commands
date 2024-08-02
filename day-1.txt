@@ -19,3 +19,15 @@
 ==> git commit -m " commit message" 
 
 ==> git push 
+
+
+========================== brach commands ==============================
+
+ ==> git branch branchname
+                          ==> it will creates a branch 
+ 
+ ==> git checkout branchname
+                        ==> it will checkout to that particular branch
+
+==> git checkout -b branchname
+                            ==> it will create and checkout the branch same time
