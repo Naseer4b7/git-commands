@@ -36,6 +36,9 @@
 
 ==================== merge branch commands ===============================
 
-==> git checkout to main
+==> git checkout to main (branch name need merge)
 
-==> git merge day-2
+==> git merge day-2 (branchname want to merge)
+
+
+some random text
