@@ -42,3 +42,8 @@
 
 
 some random text
+
+
+==> git pull 
+
+            ==> it will take the latest code from git hub
