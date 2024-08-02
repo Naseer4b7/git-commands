@@ -1,0 +1,21 @@
+================= git commands =================
+
+==> git config --global user.name "naseer"
+
+==> git config --global user.email "naseerjr4b7@gmail.com"
+
+==> git config list
+
+==> create a repository
+
+==> need to lcone the repositroy by using ==> git clone repo-url
+
+==> create a file
+
+==> git add . (to select all the changed files)
+
+==> git add filename (to select particular file)
+
+==> git commit -m " commit message" 
+
+==> git push 
