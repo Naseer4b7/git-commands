@@ -47,3 +47,14 @@ some random text
 ==> git pull 
 
             ==> it will take the latest code from git hub
+
+            ======================== stash commands ==========================
+
+==> git stash
+            ==> to hide trhe content
+
+==> git stash list
+               ==> it will gives all the stashes
+
+==> git stash apply
+               ==> it will added the hide content               
