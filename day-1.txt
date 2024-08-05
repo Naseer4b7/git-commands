@@ -58,3 +58,7 @@ some random text
 
 ==> git stash apply
                ==> it will added the hide content                
+ 
+
+ friday home work differnce between gti merge and rebase
+ 
